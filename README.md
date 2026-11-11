@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**ayush-23282/ayush-23282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ayush 
 
-Here are some ideas to get you started:
+### B.Tech CSE (AIML)Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in programming,
+problem-solving, and building practical projects.
+
+## 🚀 Technologies I'm Learning
+
+- Java
+- Python
+- HTML, CSS and JavaScript
+- React
+- Machine Learning
+- Data Structures and Algorithms
+
+## 📚 Currently Working On
+
+- Improving DSA problem-solving skills
+- Practicing Java and Python
+- Learning Machine Learning
+- Building web development projects
+
+## 💻 Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/ayush_682/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayush68lcrf)
+
+## 🎯 My Goal
+
+To become a skilled software developer through
+consistent learning, coding practice and project building.
+
+## 📫 GitHub
+
+[GitHub Profile](https://github.com/ayush-23282)
